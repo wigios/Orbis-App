@@ -12,6 +12,7 @@ public class connectionTest {
 
     @Test
     public void testIt() throws Exception {
+        System.out.println("");
 
         /*Connection connection = getConnection();
         connection.setAutoCommit(false);    //begin transaction
@@ -49,6 +50,7 @@ public class connectionTest {
 
     @Test
     public void testIt1() throws Exception {
+        System.out.println("");
 
         /*Connection connection = getConnection();
         connection.setAutoCommit(false);    //begin transaction
