@@ -3,7 +3,7 @@ package com.choucair.app;
 /**
  * Created by wospina on 09/06/2016.
  */
-public class TestData { 
+public class TestData {
 
     public void insertCustomer() {
         // insert customer logic.
