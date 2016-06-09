@@ -17,5 +17,6 @@ public class AppTest
         Assert.assertTrue("Title should start differently",
                 driver.getTitle().startsWith("Selenium Simplified"));
         driver.close();
+        driver.quit();
     }
 }
